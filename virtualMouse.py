@@ -36,7 +36,7 @@ class HandDetector:
                 )
                 cv2.putText(
                     img,
-                    "Landmark Detected",
+                    "Virtual Mouse",
                     (10, 30),
                     cv2.FONT_HERSHEY_SIMPLEX,
                     0.7,
